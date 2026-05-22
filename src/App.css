@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+}
+
+tbody tr:hover {
+    background-color: #e8f4ff !important;
+    transition: background-color 0.2s;
+}
+
+h1 {
+    color: #212529;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
